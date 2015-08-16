@@ -9,26 +9,17 @@ This repository hosts the mobile application implementation of project.
 
 ## Screenshots
 
-* #####Login
-
-  ![Screenshot-Login](./Screenshots/screenshot-login.jpg)
-
-* #####Feed
-
+####Login / Feed
+  ![Screenshot-Login](./Screenshots/screenshot-login.jpg) 
   ![Screenshot-Feed](./Screenshots/screenshot-feed.jpg)
 
-* #####Contacts
-
-  ![Screenshot-Contacts](./Screenshots/screenshot-contact.jpg)
-
-* #####Info
-
-  ![Screenshot-Info](./Screenshots/screenshot-info.jpg)
-  
-* #####Contact Detail
-
+####Contacts / Contact Detail
+  ![Screenshot-Contacts](./Screenshots/screenshot-contact.jpg) 
   ![Screenshot-Detail](./Screenshots/screenshot-person-detail.jpg)
-  
-  
+
+####Info
+  ![Screenshot-Info](./Screenshots/screenshot-info.jpg)
+
+
 ## Authors
 #####Hsuan-Chih Chuang
